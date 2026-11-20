@@ -11,12 +11,6 @@ behind the number.
 
 🚧 *Launching soon.* **Follow** or ⭐ star to catch it on day one.
 
-### 🔭 On the bench
-
-- 🔤 A word checker for settling Scrabble arguments
-- 🎥 Camera games kids play by moving
-- 🌦️ A glanceable wall weather display
-
 ### 🤝 House rules
 
 - Open data, open code, method written down
